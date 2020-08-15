@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982508109567",
+    "firebase_url": "https://mensaje-ivan.firebaseio.com",
+    "project_id": "mensaje-ivan",
+    "storage_bucket": "mensaje-ivan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982508109567:android:3e412088f318c712e396ca",
+        "android_client_info": {
+          "package_name": "com.mensajes.ivan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982508109567-ldi9u7vv2lrnccocb8enb90369k2fv9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPD0m1YpRIg3b9Xp2anoBr5Z70x2_OaI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982508109567-ldi9u7vv2lrnccocb8enb90369k2fv9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
